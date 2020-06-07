@@ -1,7 +1,7 @@
 [
   {"title": "番茄土豆炖牛肉", "ingredients": ["番茄", "土豆", "牛肉"], "meal_types": ["午餐", "晚餐"], "course_types": ["汤菜"], "cooking_styles": ["炖煮"], "nutrition_types": [], "preparation_time": 60, "rating": 9, "url": "https://home.meishichina.com/recipe-33791.html"},
-  {"title": "番茄土豆炖牛肉2", "ingredients": ["番茄", "土豆", "牛肉"], "meal_types": ["午餐", "晚餐"], "course_types": ["汤菜"], "cooking_styles": ["炖煮"], "nutrition_types": [], "preparation_time": 30, "rating": 8},
-  {"title": "番茄土豆炖牛肉3", "ingredients": ["番茄", "土豆", "牛肉"], "meal_types": ["午餐", "晚餐"], "course_types": ["汤菜"], "cooking_styles": ["炖煮"], "nutrition_types": [], "preparation_time": 5, "rating": 7},
-  {"title": "番茄土豆炖牛肉4", "ingredients": ["番茄", "土豆", "牛肉"], "meal_types": ["午餐", "晚餐"], "course_types": ["汤菜"], "cooking_styles": ["炖煮"], "nutrition_types": [], "preparation_time": 120, "rating": 6}
+  {"title": "芦笋炒蘑菇", "ingredients": ["芦笋", "蘑菇"], "meal_types": ["午餐", "晚餐"], "course_types": ["素菜"], "cooking_styles": ["炒"], "nutrition_types": [], "preparation_time": 20, "rating": 6, "url": "https://m.xiachufang.com/recipe/1088623/"},
+  {"title": "烤三文鱼", "ingredients": ["三文鱼"], "meal_types": ["午餐", "晚餐"], "course_types": ["大荤"], "cooking_styles": ["烤"], "nutrition_types": ["低脂"], "preparation_time": 20, "rating": 8, "url": "https://home.meishichina.com/recipe-50142.html"},
+  {"title": "经典美式早餐套餐", "ingredients": ["面包", "鸡蛋", "香肠", "火腿"], "meal_types": ["早餐"], "course_types": ["主食"], "cooking_styles": ["煎"], "nutrition_types": [], "preparation_time": 10, "rating": 8, "url": "https://cookpad.com/us/recipes/2258207-american-breakfast"}
 ]
 
